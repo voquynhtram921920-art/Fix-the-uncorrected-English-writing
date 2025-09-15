@@ -1,0 +1,5 @@
+{
+  "name": "Handwriting English Corrector",
+  "description": "An application that corrects handwritten English text from an image, provides detailed feedback on errors, and offers a rewritten version with corrections highlighted.",
+  "requestFramePermissions": []
+}
